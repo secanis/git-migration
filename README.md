@@ -4,7 +4,7 @@ This is an in-browser GIT client powered by isomorphic-git to clone, copy or mig
 
 All cloned data is stored locally in your browser with help of an IndexedDB. This part is powered by the project lightning-fs also engenieered by isomorphic-git.
 
-![screenshot git migrator](images/screenshot.png)
+![screenshot git migrator](images/screenshot1.png)
 
 ## Contribution
 
