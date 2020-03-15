@@ -1,0 +1,23 @@
+:root {
+  --tree-item-height: 25px;
+}
+
+.repo-file-tree-invisible {
+  display: none;
+}
+
+.repo-file-tree ul,
+.repo-file-tree li {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+}
+
+.mat-tree-node {
+    min-height: var(--tree-item-height);
+}
+
+.mat-icon-button {
+    height: var(--tree-item-height);
+    line-height: var(--tree-item-height);
+}
